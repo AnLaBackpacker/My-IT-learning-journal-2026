@@ -10,3 +10,4 @@ This repository is used to track my learning journal in IT and software developm
 
 - ## Goal
 - To improve my understanding of software development step by step.
+- Understand how to protect accounts
