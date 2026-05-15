@@ -5,3 +5,4 @@
 - Day 4: Learn more about python, C++, Javascript.
 - Day 5: How ChatGPT, Gemini, Copilot, Grok, Claude works
 - Day 6: Learn how to use AI in daily activities, use AI to learn coding
+- Day 7: How is the điffence of Python, C++ and Javascripts
